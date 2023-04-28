@@ -7,7 +7,7 @@ If you can not access Python and/or Jupyter Notebook on your machine, you can st
 #### Usage
 
 1. Clone or download this repository.
-2. Checkout a new branch `training/<exercise_name>/<employee_id>/<employee_name>`
+2. Checkout a new branch `training/<team_name>`
 3. Run `jupyter notebook` command in your command line in the repository directory.
 4. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
 5. Dataset is available under the folder 'dataset'
